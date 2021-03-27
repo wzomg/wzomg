@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi，我是小武 👋
 
-<!--
-**wzomg/wzomg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 Backend Developer
+- 🏠 Homepage at [dev_winner](https://www.jianshu.com/u/89c061b853ad)
+- 📒 My algorithm note website：[霜雪千年](https://www.cnblogs.com/acgoto/) | [我的LeetCode刷题之路](https://wzomg.github.io/LeetcodeRecord/#/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=wzomg&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzomg&layout=compact" />
+</div>
