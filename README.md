@@ -24,3 +24,10 @@
 <a href="https://github.com/wzomg/chatserver">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=wzomg&repo=chatserver" />
 </a>
+
+----
+
+<a href="https://github.com/wzomg/chatadmin">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=wzomg&repo=chatadmin" />
+</a>
+
