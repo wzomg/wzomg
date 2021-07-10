@@ -13,31 +13,3 @@
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=wzomg&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzomg&layout=compact" />
 </div>
-
-#### 最新开源
-
----
-
-<a href="https://github.com/wzomg/chatclient">
-  <img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=wzomg&repo=chatclient" />
-</a>
-
-<a href="https://github.com/wzomg/chatserver">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=wzomg&repo=chatserver" />
-</a>
-
-----
-
-<a href="https://github.com/wzomg/chatadmin">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=wzomg&repo=chatadmin" />
-</a>
-
-----
-
-<a href="https://github.com/wzomg/online-learning-frontend">
-  <img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=wzomg&repo=online-learning-frontend" />
-</a>
-
-<a href="https://github.com/wzomg/online-learning-backend">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=wzomg&repo=online-learning-backend" />
-</a>
